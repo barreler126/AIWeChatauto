@@ -1,7 +1,7 @@
 
 # AIWeChatauto - 微信公众号AI内容创作与自动发布平台
 
-# 另外一个项目：.edu邮箱：https://github.com/wojiadexiaoming/eduEmail
+# 另外一个项目：.edu邮箱：https://github.com/wojiadexiaoming-copy/eduEmail
 
 > 🚀 一站式AI写作、智能配图、极致排版、自动发布，助力新媒体人高效运营公众号！
 
