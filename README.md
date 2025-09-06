@@ -1,5 +1,7 @@
 
-# AIWeChatauto - 微信公众号AI内容创作与自动发布平台
+# AIWeChatauto - 微信公众号AI内容创作与自动发布平台-已修复bug【9.06】
+
+在线体验：https://free.yydsoi.cn/AI_wxchat_auto/index.html
 
 # 另外一个项目：.edu邮箱：https://github.com/wojiadexiaoming-copy/eduEmail-cloudflare
 
